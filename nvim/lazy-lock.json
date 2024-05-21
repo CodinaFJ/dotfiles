@@ -1,0 +1,12 @@
+{
+  "cellular-automaton": { "branch": "main", "commit": "b7d056dab963b5d3f2c560d92937cb51db61cb5b" },
+  "harpoon": { "branch": "master", "commit": "ccae1b9bec717ae284906b0bf83d720e59d12b91" },
+  "lazy.nvim": { "branch": "main", "commit": "bef521ac89c8d423f9d092e37b58e8af0c099309" },
+  "nightfox": { "branch": "main", "commit": "df75a6a94910ae47854341d6b5a6fd483192c0eb" },
+  "nvim-treesitter": { "branch": "master", "commit": "fa1515b015ab9894aa9866410b1c23e03d2be4af" },
+  "plenary": { "branch": "master", "commit": "08e301982b9a057110ede7a735dd1b5285eb341f" },
+  "telescope.nvim": { "branch": "master", "commit": "fac83a556e7b710dc31433dec727361ca062dbe9" },
+  "undotree": { "branch": "master", "commit": "56c684a805fe948936cda0d1b19505b84ad7e065" },
+  "vim-fugitive": { "branch": "master", "commit": "ce882460cf3db12e99f8bf579cbf99e331f6dd4f" },
+  "zen-mode.nvim": { "branch": "main", "commit": "78557d972b4bfbb7488e17b5703d25164ae64e6a" }
+}
